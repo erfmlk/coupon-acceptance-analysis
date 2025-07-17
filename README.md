@@ -56,4 +56,4 @@ The dataset includes:
 ## **How to Run**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/coupon-acceptance-analysis.git
+   git clone https://github.com/erfmlk/coupon-acceptance-analysis.git
