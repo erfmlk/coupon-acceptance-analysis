@@ -1,4 +1,5 @@
 # Coupon Acceptance Analysis  
+# coupon-acceptance-analysis
 **Project for Assignment 5.1: Will the Customer Accept the Coupon?**  
 _First Practical Application Assignment_  
 Course: **Professional Certificate in Machine Learning and Artificial Intelligence by Berkeley**  
