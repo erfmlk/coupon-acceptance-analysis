@@ -1,0 +1,501 @@
+destination,passenger,weather,time,coupon,age,income,Y
+No Urgent Place,Friend,Snowy,Evening,Bar,Below21,High,1
+Home,Friend,Snowy,Afternoon,Restaurant(<20),Below21,Medium,1
+No Urgent Place,Partner,Sunny,Evening,Carry out,21-30,Medium,1
+No Urgent Place,Friend,Sunny,Morning,Restaurant(20-50),Below21,High,0
+Home,Kid,Rainy,Afternoon,Restaurant(<20),50plus,Low,0
+Home,Alone,Rainy,Evening,Restaurant(20-50),21-30,Medium,0
+No Urgent Place,Kid,Sunny,Morning,Restaurant(<20),21-30,Low,1
+Work,Alone,Rainy,Afternoon,Bar,21-30,Medium,0
+No Urgent Place,Alone,Sunny,Morning,Carry out,50plus,High,1
+No Urgent Place,Kid,Rainy,Afternoon,Restaurant(<20),31-50,High,1
+No Urgent Place,Kid,Sunny,Morning,Coffee House,50plus,High,1
+No Urgent Place,Kid,Sunny,Morning,Coffee House,Below21,Medium,1
+Home,Kid,Sunny,Evening,Restaurant(<20),Below21,Low,0
+No Urgent Place,Partner,Rainy,Morning,Restaurant(<20),50plus,Low,1
+Work,Friend,Rainy,Afternoon,Restaurant(<20),50plus,Low,1
+Home,Alone,Rainy,Afternoon,Coffee House,21-30,Medium,0
+Work,Kid,Sunny,Evening,Coffee House,50plus,Medium,0
+Work,Kid,Rainy,Afternoon,Restaurant(<20),21-30,Medium,1
+Work,Kid,Rainy,Afternoon,Restaurant(20-50),Below21,Medium,1
+Work,Partner,Sunny,Afternoon,Restaurant(20-50),21-30,Medium,1
+Home,Kid,Snowy,Morning,Bar,50plus,Low,1
+Home,Kid,Sunny,Morning,Carry out,Below21,Medium,1
+Work,Kid,Rainy,Afternoon,Restaurant(20-50),31-50,Medium,1
+Work,Friend,Sunny,Evening,Coffee House,21-30,Low,0
+Home,Partner,Snowy,Morning,Restaurant(20-50),Below21,Medium,0
+Home,Kid,Sunny,Evening,Bar,21-30,Low,0
+Home,Alone,Rainy,Afternoon,Bar,Below21,Low,1
+No Urgent Place,Alone,Snowy,Afternoon,Carry out,Below21,High,1
+No Urgent Place,Alone,Rainy,Morning,Restaurant(20-50),21-30,High,1
+No Urgent Place,Partner,Snowy,Afternoon,Coffee House,31-50,High,0
+Work,Partner,Snowy,Morning,Coffee House,Below21,High,1
+No Urgent Place,Alone,Sunny,Afternoon,Restaurant(<20),Below21,Medium,1
+Work,Kid,Sunny,Afternoon,Coffee House,Below21,High,1
+Work,Partner,Rainy,Morning,Carry out,31-50,Low,1
+No Urgent Place,Alone,Sunny,Morning,Carry out,31-50,Medium,0
+Work,Alone,Sunny,Morning,Coffee House,50plus,High,1
+No Urgent Place,Kid,Snowy,Afternoon,Coffee House,21-30,Low,0
+No Urgent Place,Friend,Sunny,Afternoon,Restaurant(<20),31-50,Medium,0
+Home,Partner,Snowy,Evening,Coffee House,21-30,Medium,1
+No Urgent Place,Kid,Snowy,Morning,Restaurant(<20),50plus,High,1
+Home,Alone,Snowy,Afternoon,Restaurant(<20),21-30,Medium,1
+No Urgent Place,Alone,Rainy,Afternoon,Coffee House,31-50,Low,1
+No Urgent Place,Kid,Rainy,Morning,Bar,21-30,Medium,1
+Home,Partner,Rainy,Evening,Bar,31-50,Low,1
+Home,Friend,Snowy,Morning,Restaurant(<20),21-30,Medium,1
+No Urgent Place,Friend,Rainy,Evening,Coffee House,31-50,High,0
+Work,Alone,Rainy,Afternoon,Bar,31-50,Low,0
+Home,Partner,Sunny,Evening,Coffee House,21-30,Medium,0
+Work,Friend,Rainy,Afternoon,Coffee House,50plus,Medium,1
+Work,Partner,Rainy,Morning,Coffee House,Below21,Medium,0
+Work,Partner,Snowy,Morning,Restaurant(20-50),50plus,Low,0
+Home,Alone,Snowy,Morning,Coffee House,21-30,Low,0
+Work,Friend,Snowy,Evening,Restaurant(20-50),50plus,Low,1
+Home,Kid,Snowy,Afternoon,Restaurant(<20),31-50,High,0
+Work,Alone,Snowy,Morning,Bar,Below21,High,1
+No Urgent Place,Friend,Snowy,Morning,Bar,21-30,Low,0
+No Urgent Place,Friend,Rainy,Afternoon,Bar,21-30,Medium,1
+Home,Friend,Snowy,Morning,Bar,21-30,High,0
+No Urgent Place,Friend,Snowy,Afternoon,Bar,Below21,Low,0
+No Urgent Place,Friend,Sunny,Afternoon,Bar,31-50,Medium,1
+Work,Partner,Rainy,Afternoon,Bar,21-30,High,0
+Home,Alone,Rainy,Afternoon,Restaurant(<20),50plus,Medium,0
+Work,Partner,Rainy,Afternoon,Coffee House,21-30,Medium,0
+Work,Kid,Snowy,Evening,Carry out,21-30,Medium,0
+Work,Friend,Snowy,Morning,Restaurant(20-50),21-30,Medium,0
+Work,Alone,Snowy,Evening,Carry out,21-30,High,0
+Work,Friend,Sunny,Morning,Carry out,31-50,High,1
+Work,Alone,Snowy,Evening,Coffee House,50plus,High,1
+Work,Partner,Sunny,Afternoon,Coffee House,31-50,Low,1
+Home,Alone,Rainy,Morning,Coffee House,50plus,High,0
+No Urgent Place,Kid,Snowy,Morning,Bar,21-30,Medium,1
+Work,Kid,Sunny,Evening,Restaurant(<20),Below21,High,0
+Work,Alone,Sunny,Evening,Bar,31-50,Medium,0
+Work,Alone,Snowy,Morning,Restaurant(<20),Below21,Low,1
+Work,Alone,Rainy,Evening,Restaurant(<20),31-50,Medium,0
+Work,Alone,Rainy,Evening,Carry out,21-30,Medium,0
+Work,Kid,Rainy,Evening,Carry out,31-50,Medium,1
+No Urgent Place,Friend,Sunny,Afternoon,Restaurant(<20),21-30,Low,1
+No Urgent Place,Alone,Sunny,Afternoon,Restaurant(<20),31-50,High,1
+Work,Alone,Sunny,Evening,Bar,21-30,High,1
+No Urgent Place,Kid,Sunny,Evening,Bar,21-30,Low,1
+Home,Kid,Rainy,Afternoon,Carry out,50plus,Medium,0
+Work,Partner,Snowy,Afternoon,Coffee House,21-30,High,0
+Home,Alone,Sunny,Morning,Restaurant(<20),50plus,Low,0
+Home,Partner,Sunny,Morning,Bar,21-30,High,0
+Work,Kid,Rainy,Afternoon,Carry out,Below21,Low,0
+No Urgent Place,Kid,Snowy,Evening,Bar,21-30,Medium,1
+Home,Friend,Snowy,Evening,Restaurant(<20),Below21,High,1
+Work,Alone,Rainy,Evening,Restaurant(<20),Below21,Low,1
+Home,Partner,Rainy,Evening,Restaurant(20-50),21-30,High,0
+Home,Kid,Snowy,Morning,Coffee House,Below21,High,1
+Home,Kid,Sunny,Afternoon,Restaurant(20-50),50plus,High,1
+Home,Partner,Snowy,Evening,Carry out,31-50,High,1
+No Urgent Place,Friend,Rainy,Morning,Bar,21-30,Low,0
+Home,Kid,Sunny,Evening,Carry out,Below21,Medium,1
+Home,Alone,Sunny,Afternoon,Restaurant(<20),21-30,Low,0
+Home,Kid,Rainy,Morning,Restaurant(20-50),50plus,Low,0
+No Urgent Place,Alone,Rainy,Afternoon,Restaurant(20-50),21-30,Low,0
+Home,Partner,Rainy,Afternoon,Restaurant(20-50),21-30,Medium,1
+Home,Alone,Snowy,Morning,Carry out,Below21,High,1
+No Urgent Place,Partner,Snowy,Morning,Restaurant(<20),50plus,High,0
+No Urgent Place,Alone,Sunny,Morning,Bar,31-50,High,0
+No Urgent Place,Partner,Rainy,Morning,Bar,31-50,Medium,1
+Home,Alone,Sunny,Morning,Carry out,Below21,High,0
+No Urgent Place,Friend,Sunny,Morning,Restaurant(20-50),21-30,Medium,0
+No Urgent Place,Alone,Sunny,Morning,Coffee House,Below21,High,0
+Home,Alone,Sunny,Evening,Carry out,Below21,High,1
+No Urgent Place,Friend,Rainy,Afternoon,Carry out,Below21,Low,0
+Home,Kid,Sunny,Morning,Restaurant(<20),21-30,Medium,0
+Work,Kid,Rainy,Evening,Bar,50plus,Low,0
+No Urgent Place,Alone,Rainy,Evening,Carry out,Below21,Low,1
+Work,Friend,Snowy,Evening,Carry out,21-30,Low,1
+Home,Alone,Rainy,Afternoon,Restaurant(20-50),50plus,Medium,1
+No Urgent Place,Partner,Snowy,Morning,Restaurant(20-50),Below21,Medium,0
+Home,Partner,Rainy,Evening,Coffee House,31-50,High,1
+Work,Alone,Rainy,Afternoon,Restaurant(<20),50plus,Low,0
+Home,Kid,Rainy,Afternoon,Coffee House,Below21,High,1
+No Urgent Place,Kid,Snowy,Afternoon,Restaurant(20-50),50plus,Low,1
+No Urgent Place,Alone,Snowy,Evening,Bar,50plus,Medium,1
+Work,Alone,Sunny,Morning,Restaurant(20-50),50plus,Medium,1
+Home,Partner,Snowy,Evening,Restaurant(<20),50plus,Medium,1
+No Urgent Place,Kid,Snowy,Evening,Restaurant(20-50),50plus,Low,0
+Work,Alone,Snowy,Morning,Restaurant(<20),50plus,Medium,1
+No Urgent Place,Partner,Snowy,Morning,Restaurant(<20),Below21,Low,0
+No Urgent Place,Kid,Sunny,Morning,Restaurant(<20),31-50,High,1
+Home,Friend,Snowy,Afternoon,Restaurant(<20),21-30,Low,0
+No Urgent Place,Partner,Rainy,Morning,Restaurant(<20),50plus,High,0
+Home,Kid,Rainy,Evening,Bar,21-30,Low,0
+No Urgent Place,Kid,Snowy,Morning,Coffee House,Below21,High,0
+Work,Partner,Snowy,Evening,Carry out,50plus,Medium,1
+No Urgent Place,Friend,Rainy,Afternoon,Coffee House,31-50,High,1
+Home,Partner,Rainy,Evening,Restaurant(<20),21-30,Medium,0
+Home,Kid,Sunny,Evening,Bar,50plus,Medium,0
+Work,Alone,Rainy,Morning,Restaurant(20-50),Below21,High,1
+No Urgent Place,Alone,Rainy,Morning,Bar,31-50,Low,0
+No Urgent Place,Partner,Snowy,Evening,Restaurant(<20),21-30,Low,1
+Work,Kid,Rainy,Morning,Bar,21-30,Low,1
+No Urgent Place,Alone,Sunny,Afternoon,Bar,50plus,Low,1
+No Urgent Place,Kid,Rainy,Afternoon,Restaurant(<20),31-50,Low,1
+Home,Partner,Snowy,Morning,Bar,31-50,Medium,0
+No Urgent Place,Alone,Snowy,Afternoon,Carry out,31-50,Low,1
+No Urgent Place,Kid,Rainy,Morning,Carry out,31-50,Medium,0
+Work,Alone,Snowy,Evening,Bar,Below21,Medium,0
+Work,Partner,Sunny,Evening,Restaurant(20-50),31-50,Medium,1
+Home,Kid,Sunny,Afternoon,Restaurant(<20),21-30,High,0
+No Urgent Place,Alone,Rainy,Morning,Carry out,21-30,High,1
+No Urgent Place,Partner,Rainy,Morning,Restaurant(20-50),Below21,Medium,1
+No Urgent Place,Alone,Rainy,Afternoon,Bar,21-30,High,1
+Home,Alone,Snowy,Evening,Restaurant(20-50),21-30,Low,1
+Home,Friend,Sunny,Afternoon,Coffee House,31-50,Low,0
+Work,Friend,Sunny,Evening,Carry out,21-30,Medium,0
+Home,Partner,Snowy,Morning,Bar,Below21,Low,1
+No Urgent Place,Friend,Sunny,Evening,Restaurant(<20),31-50,Medium,0
+No Urgent Place,Partner,Rainy,Afternoon,Bar,50plus,Medium,1
+Home,Friend,Rainy,Morning,Restaurant(<20),31-50,Low,1
+No Urgent Place,Alone,Rainy,Afternoon,Bar,Below21,High,1
+No Urgent Place,Partner,Sunny,Afternoon,Restaurant(20-50),31-50,Low,0
+Home,Partner,Rainy,Evening,Restaurant(20-50),31-50,Low,0
+Home,Alone,Snowy,Afternoon,Restaurant(20-50),Below21,Medium,0
+No Urgent Place,Partner,Snowy,Evening,Coffee House,31-50,Medium,0
+No Urgent Place,Partner,Sunny,Morning,Restaurant(<20),Below21,Medium,1
+No Urgent Place,Friend,Snowy,Evening,Restaurant(20-50),Below21,Medium,0
+Work,Partner,Snowy,Morning,Coffee House,50plus,High,0
+Work,Kid,Sunny,Evening,Restaurant(<20),21-30,High,0
+Work,Alone,Rainy,Afternoon,Bar,21-30,High,1
+Home,Friend,Rainy,Evening,Coffee House,31-50,Medium,1
+Work,Friend,Rainy,Evening,Carry out,31-50,Medium,0
+Home,Kid,Sunny,Morning,Coffee House,50plus,Medium,0
+Home,Alone,Snowy,Afternoon,Coffee House,50plus,High,0
+Work,Alone,Rainy,Evening,Restaurant(<20),50plus,Medium,0
+Work,Friend,Rainy,Afternoon,Bar,Below21,Low,1
+Work,Partner,Sunny,Evening,Carry out,50plus,Low,1
+No Urgent Place,Friend,Rainy,Evening,Restaurant(20-50),50plus,Medium,0
+Work,Alone,Sunny,Afternoon,Restaurant(20-50),31-50,Low,0
+No Urgent Place,Kid,Snowy,Evening,Coffee House,50plus,Low,1
+Home,Friend,Sunny,Afternoon,Restaurant(<20),Below21,High,1
+No Urgent Place,Alone,Sunny,Evening,Restaurant(<20),Below21,Medium,1
+Work,Friend,Sunny,Morning,Restaurant(20-50),31-50,Medium,0
+Home,Partner,Sunny,Afternoon,Carry out,50plus,High,1
+Home,Friend,Snowy,Evening,Bar,50plus,Low,0
+Home,Friend,Snowy,Evening,Carry out,Below21,Low,1
+No Urgent Place,Alone,Rainy,Morning,Bar,50plus,Medium,1
+Work,Alone,Snowy,Afternoon,Restaurant(20-50),50plus,Low,0
+Home,Alone,Snowy,Evening,Bar,50plus,High,0
+Home,Friend,Rainy,Morning,Restaurant(<20),21-30,High,0
+Home,Partner,Snowy,Evening,Coffee House,31-50,Medium,0
+No Urgent Place,Kid,Sunny,Afternoon,Coffee House,21-30,High,0
+No Urgent Place,Kid,Sunny,Evening,Restaurant(20-50),31-50,High,0
+Work,Alone,Rainy,Evening,Restaurant(<20),Below21,Medium,1
+No Urgent Place,Alone,Rainy,Evening,Carry out,50plus,High,1
+Home,Friend,Rainy,Evening,Restaurant(<20),31-50,High,0
+Work,Kid,Sunny,Morning,Coffee House,21-30,High,1
+Home,Alone,Snowy,Morning,Coffee House,50plus,Low,0
+Home,Partner,Sunny,Afternoon,Restaurant(<20),Below21,Medium,1
+No Urgent Place,Partner,Rainy,Morning,Restaurant(<20),31-50,Medium,0
+Work,Alone,Snowy,Morning,Coffee House,31-50,Medium,1
+No Urgent Place,Alone,Snowy,Afternoon,Carry out,31-50,Low,1
+No Urgent Place,Kid,Sunny,Morning,Restaurant(20-50),50plus,Low,1
+Work,Kid,Rainy,Morning,Restaurant(20-50),21-30,Medium,1
+Home,Friend,Sunny,Afternoon,Restaurant(<20),21-30,Low,0
+Home,Kid,Snowy,Afternoon,Restaurant(20-50),31-50,Medium,1
+Work,Partner,Sunny,Afternoon,Coffee House,Below21,Low,0
+Home,Partner,Sunny,Evening,Coffee House,Below21,High,0
+Work,Alone,Rainy,Evening,Restaurant(<20),21-30,High,0
+Work,Kid,Rainy,Afternoon,Restaurant(<20),Below21,Medium,1
+No Urgent Place,Friend,Snowy,Afternoon,Restaurant(<20),21-30,Low,0
+Work,Partner,Sunny,Afternoon,Carry out,31-50,Low,1
+No Urgent Place,Partner,Sunny,Evening,Restaurant(20-50),21-30,High,1
+Home,Friend,Sunny,Evening,Restaurant(<20),21-30,High,1
+Home,Friend,Snowy,Morning,Bar,31-50,Low,1
+Home,Partner,Snowy,Morning,Bar,Below21,Low,0
+Home,Partner,Rainy,Afternoon,Coffee House,21-30,Low,0
+No Urgent Place,Friend,Rainy,Evening,Restaurant(20-50),21-30,Low,0
+Home,Partner,Rainy,Evening,Restaurant(<20),31-50,Low,0
+Work,Alone,Sunny,Evening,Bar,Below21,Low,0
+Work,Alone,Sunny,Afternoon,Restaurant(20-50),21-30,Medium,0
+Work,Friend,Rainy,Morning,Coffee House,31-50,Low,0
+No Urgent Place,Kid,Sunny,Afternoon,Carry out,21-30,High,1
+Home,Friend,Rainy,Morning,Restaurant(20-50),50plus,Medium,1
+Home,Friend,Snowy,Morning,Restaurant(20-50),31-50,Low,0
+Home,Kid,Rainy,Afternoon,Carry out,Below21,High,1
+No Urgent Place,Kid,Snowy,Morning,Restaurant(20-50),Below21,Medium,0
+Work,Kid,Sunny,Morning,Coffee House,Below21,High,0
+Work,Alone,Rainy,Evening,Coffee House,Below21,Low,1
+Home,Partner,Sunny,Morning,Carry out,21-30,Low,1
+Work,Alone,Snowy,Afternoon,Restaurant(<20),21-30,Low,0
+Work,Partner,Snowy,Afternoon,Bar,Below21,Low,1
+No Urgent Place,Alone,Snowy,Morning,Restaurant(<20),Below21,Medium,1
+No Urgent Place,Partner,Sunny,Evening,Restaurant(20-50),Below21,Medium,1
+No Urgent Place,Alone,Sunny,Evening,Bar,21-30,High,1
+No Urgent Place,Kid,Sunny,Morning,Carry out,Below21,Low,1
+Home,Friend,Sunny,Morning,Carry out,Below21,High,0
+No Urgent Place,Alone,Snowy,Afternoon,Bar,50plus,Medium,0
+Work,Partner,Snowy,Morning,Coffee House,50plus,Low,0
+Home,Kid,Rainy,Evening,Bar,Below21,Low,1
+Work,Alone,Rainy,Morning,Restaurant(20-50),31-50,Medium,1
+Work,Alone,Sunny,Afternoon,Coffee House,Below21,Medium,0
+Work,Kid,Snowy,Afternoon,Carry out,50plus,Medium,1
+No Urgent Place,Alone,Snowy,Afternoon,Bar,31-50,Medium,1
+No Urgent Place,Friend,Snowy,Afternoon,Restaurant(<20),31-50,Medium,1
+Home,Alone,Rainy,Afternoon,Restaurant(<20),Below21,Low,1
+Home,Friend,Rainy,Morning,Restaurant(20-50),50plus,Medium,1
+No Urgent Place,Friend,Snowy,Morning,Restaurant(<20),50plus,Low,0
+Work,Kid,Snowy,Morning,Bar,31-50,Low,1
+Home,Alone,Snowy,Morning,Bar,Below21,Medium,0
+No Urgent Place,Kid,Rainy,Afternoon,Restaurant(<20),21-30,Medium,1
+No Urgent Place,Alone,Snowy,Evening,Bar,21-30,Low,0
+No Urgent Place,Alone,Snowy,Morning,Restaurant(20-50),50plus,Medium,1
+Work,Partner,Sunny,Evening,Coffee House,21-30,Medium,1
+No Urgent Place,Alone,Sunny,Morning,Restaurant(20-50),50plus,Medium,0
+No Urgent Place,Kid,Rainy,Morning,Restaurant(20-50),50plus,High,1
+No Urgent Place,Friend,Snowy,Evening,Bar,50plus,Low,1
+No Urgent Place,Alone,Snowy,Afternoon,Coffee House,21-30,High,1
+Home,Partner,Sunny,Morning,Bar,50plus,Medium,1
+Home,Kid,Rainy,Morning,Carry out,31-50,High,1
+No Urgent Place,Alone,Sunny,Morning,Bar,Below21,Medium,0
+Work,Kid,Sunny,Evening,Bar,Below21,High,0
+Home,Partner,Sunny,Afternoon,Bar,50plus,Medium,0
+No Urgent Place,Partner,Sunny,Evening,Coffee House,Below21,High,1
+Home,Kid,Snowy,Evening,Bar,21-30,High,0
+Home,Alone,Snowy,Afternoon,Coffee House,21-30,High,1
+Work,Friend,Sunny,Evening,Restaurant(<20),Below21,Low,1
+No Urgent Place,Partner,Rainy,Afternoon,Carry out,21-30,High,1
+No Urgent Place,Alone,Rainy,Morning,Coffee House,Below21,Low,1
+Work,Alone,Rainy,Afternoon,Restaurant(<20),Below21,Medium,1
+Work,Friend,Rainy,Morning,Coffee House,Below21,High,0
+No Urgent Place,Partner,Sunny,Evening,Coffee House,50plus,Medium,1
+No Urgent Place,Partner,Snowy,Evening,Carry out,Below21,Medium,1
+Work,Alone,Rainy,Morning,Restaurant(20-50),50plus,High,1
+Home,Alone,Sunny,Evening,Restaurant(20-50),Below21,Low,1
+Home,Friend,Rainy,Afternoon,Coffee House,Below21,High,0
+Work,Friend,Rainy,Morning,Bar,Below21,Medium,0
+Home,Partner,Sunny,Evening,Restaurant(<20),21-30,Medium,1
+Work,Kid,Snowy,Morning,Bar,50plus,High,0
+Home,Partner,Snowy,Afternoon,Bar,50plus,Low,1
+Home,Alone,Sunny,Afternoon,Coffee House,Below21,Low,1
+No Urgent Place,Partner,Snowy,Evening,Coffee House,Below21,Medium,0
+No Urgent Place,Kid,Sunny,Afternoon,Coffee House,21-30,Medium,1
+Home,Friend,Sunny,Morning,Coffee House,21-30,Low,0
+Home,Kid,Sunny,Afternoon,Restaurant(20-50),21-30,High,1
+No Urgent Place,Kid,Snowy,Morning,Coffee House,50plus,Medium,1
+No Urgent Place,Kid,Sunny,Morning,Restaurant(20-50),50plus,Low,1
+No Urgent Place,Friend,Rainy,Afternoon,Restaurant(20-50),50plus,Medium,0
+Work,Kid,Snowy,Evening,Coffee House,Below21,High,1
+Home,Kid,Snowy,Afternoon,Carry out,50plus,Low,1
+No Urgent Place,Kid,Snowy,Morning,Restaurant(<20),31-50,Medium,1
+Home,Alone,Snowy,Morning,Bar,31-50,High,1
+Work,Kid,Rainy,Afternoon,Restaurant(20-50),21-30,Medium,0
+Work,Friend,Snowy,Evening,Restaurant(<20),50plus,High,0
+No Urgent Place,Kid,Snowy,Evening,Carry out,31-50,High,0
+Work,Kid,Sunny,Morning,Bar,21-30,Low,1
+Home,Friend,Snowy,Morning,Bar,50plus,High,0
+No Urgent Place,Kid,Rainy,Evening,Restaurant(20-50),Below21,Medium,0
+Home,Friend,Rainy,Afternoon,Coffee House,31-50,High,1
+Home,Kid,Rainy,Morning,Carry out,Below21,High,0
+Work,Friend,Rainy,Morning,Restaurant(20-50),50plus,Low,1
+Work,Kid,Snowy,Evening,Carry out,31-50,High,1
+Work,Kid,Snowy,Afternoon,Coffee House,50plus,High,1
+Work,Alone,Rainy,Evening,Coffee House,Below21,Medium,0
+Work,Alone,Rainy,Afternoon,Restaurant(20-50),31-50,Low,0
+No Urgent Place,Kid,Snowy,Afternoon,Coffee House,Below21,Low,1
+Home,Kid,Rainy,Afternoon,Restaurant(<20),50plus,Low,1
+Home,Partner,Sunny,Morning,Bar,50plus,High,1
+Home,Friend,Rainy,Evening,Restaurant(20-50),Below21,Low,0
+Home,Partner,Rainy,Evening,Carry out,31-50,High,1
+Work,Alone,Sunny,Afternoon,Restaurant(<20),Below21,High,1
+Home,Alone,Sunny,Morning,Restaurant(20-50),50plus,Medium,1
+No Urgent Place,Alone,Snowy,Morning,Coffee House,Below21,Medium,1
+No Urgent Place,Alone,Snowy,Evening,Coffee House,50plus,Medium,1
+Home,Kid,Sunny,Morning,Coffee House,Below21,Medium,1
+Home,Alone,Sunny,Morning,Coffee House,31-50,Medium,0
+No Urgent Place,Kid,Snowy,Afternoon,Carry out,31-50,High,1
+No Urgent Place,Kid,Rainy,Morning,Restaurant(<20),Below21,High,0
+Work,Alone,Sunny,Afternoon,Bar,Below21,Low,0
+No Urgent Place,Alone,Snowy,Evening,Carry out,31-50,High,0
+Work,Friend,Rainy,Morning,Carry out,50plus,High,0
+Work,Partner,Sunny,Evening,Bar,31-50,Medium,0
+Work,Alone,Rainy,Evening,Bar,50plus,High,0
+Work,Friend,Snowy,Morning,Coffee House,Below21,Medium,1
+Work,Friend,Sunny,Morning,Carry out,Below21,Low,1
+Home,Partner,Rainy,Evening,Restaurant(20-50),50plus,Low,0
+No Urgent Place,Kid,Sunny,Morning,Bar,Below21,High,1
+Work,Alone,Rainy,Afternoon,Bar,50plus,Low,1
+No Urgent Place,Partner,Snowy,Afternoon,Restaurant(<20),21-30,High,0
+No Urgent Place,Alone,Snowy,Morning,Restaurant(20-50),31-50,Low,0
+Work,Friend,Sunny,Evening,Restaurant(20-50),21-30,Medium,1
+Home,Friend,Rainy,Morning,Bar,50plus,Medium,1
+Work,Kid,Sunny,Morning,Coffee House,31-50,Medium,1
+Home,Friend,Sunny,Evening,Restaurant(<20),50plus,Medium,0
+No Urgent Place,Friend,Rainy,Evening,Restaurant(20-50),31-50,High,0
+Home,Partner,Rainy,Afternoon,Bar,31-50,Low,0
+Home,Alone,Rainy,Evening,Restaurant(20-50),31-50,High,0
+Home,Alone,Snowy,Afternoon,Restaurant(<20),31-50,Medium,0
+No Urgent Place,Partner,Sunny,Evening,Restaurant(<20),50plus,High,0
+No Urgent Place,Kid,Sunny,Morning,Carry out,31-50,Low,1
+Home,Alone,Snowy,Afternoon,Bar,31-50,High,1
+Home,Friend,Rainy,Afternoon,Restaurant(<20),21-30,Low,0
+Work,Alone,Snowy,Afternoon,Carry out,Below21,High,1
+Home,Friend,Snowy,Morning,Carry out,Below21,Low,0
+Work,Kid,Snowy,Morning,Restaurant(20-50),21-30,Low,1
+Home,Partner,Sunny,Morning,Restaurant(20-50),21-30,Medium,0
+Work,Alone,Snowy,Morning,Carry out,50plus,Low,1
+No Urgent Place,Partner,Sunny,Morning,Restaurant(20-50),50plus,Medium,1
+Home,Alone,Sunny,Afternoon,Restaurant(<20),50plus,Medium,1
+Home,Friend,Sunny,Morning,Coffee House,21-30,Medium,0
+Home,Partner,Rainy,Afternoon,Restaurant(<20),21-30,High,1
+Home,Alone,Sunny,Morning,Carry out,31-50,High,0
+Work,Friend,Sunny,Evening,Carry out,50plus,High,1
+Home,Partner,Rainy,Afternoon,Restaurant(<20),50plus,High,1
+No Urgent Place,Partner,Sunny,Evening,Restaurant(20-50),50plus,Low,0
+No Urgent Place,Alone,Snowy,Afternoon,Restaurant(20-50),Below21,Low,1
+Home,Alone,Snowy,Evening,Carry out,31-50,High,1
+No Urgent Place,Alone,Sunny,Morning,Bar,50plus,Low,0
+Home,Friend,Rainy,Morning,Restaurant(20-50),50plus,Low,1
+Home,Alone,Snowy,Morning,Restaurant(<20),50plus,Medium,0
+No Urgent Place,Partner,Rainy,Afternoon,Restaurant(20-50),Below21,Medium,1
+Home,Partner,Rainy,Evening,Restaurant(<20),Below21,Medium,1
+No Urgent Place,Alone,Snowy,Morning,Carry out,21-30,Medium,1
+Work,Alone,Rainy,Evening,Restaurant(20-50),31-50,Low,1
+Home,Kid,Snowy,Evening,Restaurant(<20),21-30,High,1
+Work,Partner,Rainy,Morning,Carry out,31-50,Low,0
+No Urgent Place,Friend,Snowy,Morning,Bar,Below21,Low,1
+Work,Kid,Sunny,Evening,Restaurant(<20),50plus,Low,0
+Work,Alone,Snowy,Morning,Bar,21-30,Medium,1
+No Urgent Place,Alone,Snowy,Morning,Bar,50plus,Medium,0
+Work,Partner,Snowy,Morning,Coffee House,21-30,Medium,0
+Work,Alone,Snowy,Afternoon,Restaurant(20-50),Below21,High,1
+No Urgent Place,Friend,Rainy,Evening,Restaurant(<20),Below21,Low,0
+Work,Partner,Sunny,Evening,Bar,Below21,High,1
+No Urgent Place,Alone,Snowy,Afternoon,Coffee House,21-30,Medium,0
+Work,Partner,Rainy,Evening,Carry out,31-50,High,0
+No Urgent Place,Alone,Sunny,Morning,Restaurant(<20),21-30,Low,1
+No Urgent Place,Alone,Sunny,Evening,Bar,31-50,Low,0
+Work,Alone,Sunny,Morning,Restaurant(20-50),21-30,Medium,0
+Work,Friend,Sunny,Afternoon,Coffee House,21-30,Medium,1
+Work,Friend,Snowy,Morning,Bar,Below21,High,0
+Home,Partner,Snowy,Evening,Restaurant(20-50),50plus,Medium,1
+Home,Alone,Rainy,Evening,Bar,50plus,Medium,0
+Home,Alone,Rainy,Evening,Restaurant(<20),31-50,Low,0
+No Urgent Place,Friend,Rainy,Afternoon,Restaurant(<20),50plus,Medium,1
+Work,Alone,Sunny,Afternoon,Restaurant(<20),21-30,Medium,0
+No Urgent Place,Friend,Sunny,Evening,Coffee House,21-30,Low,0
+Home,Alone,Snowy,Morning,Restaurant(<20),Below21,Low,0
+Work,Partner,Sunny,Afternoon,Restaurant(20-50),Below21,High,0
+No Urgent Place,Alone,Sunny,Evening,Bar,50plus,Medium,1
+Work,Alone,Sunny,Evening,Carry out,31-50,Low,0
+No Urgent Place,Kid,Rainy,Afternoon,Restaurant(20-50),50plus,High,1
+Work,Friend,Rainy,Afternoon,Restaurant(20-50),50plus,High,1
+Home,Alone,Snowy,Afternoon,Restaurant(<20),50plus,Medium,0
+Home,Alone,Sunny,Morning,Coffee House,50plus,Medium,1
+Work,Kid,Sunny,Morning,Bar,21-30,High,0
+No Urgent Place,Kid,Snowy,Evening,Coffee House,31-50,Low,1
+Home,Friend,Sunny,Afternoon,Bar,21-30,High,0
+Home,Kid,Sunny,Morning,Bar,31-50,Medium,1
+Home,Partner,Rainy,Afternoon,Coffee House,Below21,Low,1
+Work,Kid,Snowy,Evening,Restaurant(20-50),50plus,Low,0
+Work,Partner,Snowy,Morning,Bar,21-30,High,1
+No Urgent Place,Friend,Snowy,Morning,Coffee House,31-50,Medium,1
+No Urgent Place,Friend,Snowy,Morning,Bar,Below21,High,0
+No Urgent Place,Friend,Rainy,Evening,Carry out,Below21,High,0
+Work,Friend,Rainy,Afternoon,Restaurant(20-50),50plus,High,1
+Work,Friend,Sunny,Morning,Restaurant(<20),31-50,Low,1
+No Urgent Place,Partner,Sunny,Evening,Bar,21-30,Low,1
+No Urgent Place,Partner,Sunny,Afternoon,Carry out,50plus,Medium,1
+Work,Friend,Sunny,Evening,Restaurant(<20),21-30,Medium,1
+No Urgent Place,Kid,Rainy,Afternoon,Restaurant(<20),Below21,High,1
+Home,Alone,Snowy,Evening,Bar,21-30,High,0
+Work,Friend,Rainy,Afternoon,Coffee House,21-30,High,0
+No Urgent Place,Kid,Sunny,Morning,Bar,50plus,Medium,1
+Work,Alone,Rainy,Afternoon,Carry out,21-30,Low,1
+Home,Friend,Snowy,Evening,Restaurant(<20),50plus,Low,0
+Work,Friend,Snowy,Evening,Bar,Below21,High,0
+Work,Partner,Rainy,Afternoon,Coffee House,50plus,High,1
+Work,Alone,Rainy,Morning,Bar,50plus,High,1
+Work,Alone,Rainy,Morning,Restaurant(20-50),31-50,High,0
+Home,Kid,Sunny,Afternoon,Coffee House,21-30,Medium,1
+Work,Partner,Rainy,Afternoon,Carry out,Below21,Low,0
+Work,Partner,Rainy,Evening,Restaurant(<20),50plus,High,0
+No Urgent Place,Partner,Rainy,Morning,Bar,Below21,Medium,0
+Work,Partner,Snowy,Afternoon,Coffee House,31-50,High,0
+No Urgent Place,Alone,Snowy,Morning,Restaurant(20-50),21-30,High,1
+Home,Alone,Sunny,Afternoon,Coffee House,50plus,Low,0
+Home,Friend,Sunny,Afternoon,Restaurant(20-50),21-30,High,1
+Home,Friend,Snowy,Morning,Carry out,31-50,Low,1
+Home,Partner,Snowy,Afternoon,Restaurant(<20),31-50,Low,0
+No Urgent Place,Partner,Snowy,Afternoon,Carry out,Below21,Low,1
+Work,Partner,Rainy,Evening,Bar,50plus,Medium,1
+Home,Friend,Rainy,Afternoon,Coffee House,Below21,Medium,1
+Work,Kid,Snowy,Afternoon,Restaurant(20-50),31-50,Low,0
+No Urgent Place,Kid,Rainy,Afternoon,Restaurant(20-50),21-30,High,1
+No Urgent Place,Friend,Rainy,Evening,Coffee House,Below21,Low,1
+No Urgent Place,Friend,Sunny,Morning,Coffee House,Below21,High,0
+Home,Friend,Snowy,Evening,Bar,21-30,Low,0
+Work,Friend,Snowy,Evening,Carry out,Below21,High,1
+Work,Friend,Rainy,Morning,Restaurant(20-50),21-30,Medium,1
+Work,Friend,Snowy,Evening,Bar,50plus,High,0
+No Urgent Place,Partner,Sunny,Morning,Carry out,21-30,Low,1
+Home,Partner,Sunny,Evening,Bar,50plus,Medium,0
+No Urgent Place,Partner,Sunny,Morning,Restaurant(20-50),21-30,High,1
+No Urgent Place,Partner,Snowy,Afternoon,Coffee House,31-50,High,0
+Work,Friend,Snowy,Evening,Coffee House,31-50,High,1
+No Urgent Place,Kid,Snowy,Evening,Carry out,50plus,High,0
+Work,Alone,Snowy,Evening,Restaurant(<20),50plus,High,0
+Home,Friend,Snowy,Evening,Carry out,31-50,Medium,0
+Work,Alone,Sunny,Afternoon,Restaurant(<20),50plus,Medium,0
+Home,Kid,Rainy,Evening,Bar,21-30,Medium,1
+Work,Partner,Sunny,Afternoon,Bar,21-30,Medium,0
+No Urgent Place,Kid,Snowy,Afternoon,Restaurant(20-50),31-50,Low,1
+No Urgent Place,Friend,Sunny,Afternoon,Restaurant(<20),Below21,Medium,0
+Home,Partner,Snowy,Afternoon,Restaurant(20-50),21-30,High,0
+Home,Friend,Snowy,Morning,Coffee House,50plus,High,0
+Home,Partner,Sunny,Morning,Restaurant(<20),Below21,Medium,0
+Work,Alone,Snowy,Evening,Carry out,Below21,High,0
+Work,Alone,Rainy,Morning,Coffee House,21-30,Medium,0
+Home,Alone,Snowy,Morning,Coffee House,21-30,High,1
+No Urgent Place,Kid,Rainy,Evening,Carry out,Below21,Low,0
+Work,Friend,Rainy,Evening,Coffee House,Below21,Low,1
+Work,Kid,Snowy,Evening,Restaurant(<20),31-50,Medium,1
+Work,Alone,Sunny,Morning,Restaurant(20-50),50plus,Medium,0
+Home,Friend,Rainy,Morning,Coffee House,31-50,Medium,1
+Home,Alone,Sunny,Evening,Restaurant(<20),21-30,High,1
+Home,Kid,Rainy,Afternoon,Bar,31-50,Medium,1
+Home,Kid,Snowy,Evening,Restaurant(<20),31-50,Low,1
+Home,Kid,Snowy,Afternoon,Restaurant(20-50),31-50,High,0
+No Urgent Place,Alone,Rainy,Afternoon,Restaurant(<20),31-50,Medium,1
+No Urgent Place,Friend,Snowy,Evening,Carry out,50plus,High,1
+Home,Friend,Rainy,Evening,Restaurant(20-50),50plus,High,1
+Work,Alone,Snowy,Evening,Bar,Below21,Medium,1
+Home,Friend,Sunny,Morning,Carry out,21-30,High,0
+No Urgent Place,Alone,Snowy,Afternoon,Restaurant(<20),31-50,Low,0
+No Urgent Place,Friend,Sunny,Morning,Restaurant(20-50),Below21,Low,1
+Work,Partner,Snowy,Morning,Bar,Below21,High,1
+No Urgent Place,Partner,Sunny,Evening,Carry out,Below21,Medium,0
+Home,Kid,Snowy,Morning,Bar,50plus,High,0
+Work,Partner,Sunny,Evening,Restaurant(<20),31-50,Low,0
+Home,Partner,Rainy,Afternoon,Bar,31-50,High,0
+Home,Partner,Rainy,Evening,Coffee House,21-30,High,1
+Work,Alone,Sunny,Morning,Carry out,31-50,Low,1
+Home,Partner,Snowy,Morning,Bar,31-50,High,0
+No Urgent Place,Partner,Sunny,Evening,Restaurant(<20),Below21,High,0
+Home,Kid,Snowy,Evening,Restaurant(<20),21-30,Medium,0
+Work,Partner,Rainy,Morning,Bar,31-50,Medium,0
+Work,Partner,Snowy,Afternoon,Restaurant(<20),50plus,Low,1
+Work,Friend,Rainy,Afternoon,Restaurant(20-50),31-50,Low,1
+Home,Kid,Snowy,Evening,Restaurant(20-50),Below21,Low,1
+Work,Kid,Snowy,Afternoon,Restaurant(20-50),50plus,Medium,0
+Work,Kid,Snowy,Morning,Coffee House,Below21,Low,1
+Home,Kid,Sunny,Evening,Bar,31-50,Low,1
+No Urgent Place,Kid,Sunny,Morning,Coffee House,50plus,Low,1
+Home,Kid,Rainy,Morning,Restaurant(<20),21-30,Medium,1
+Work,Alone,Rainy,Afternoon,Coffee House,21-30,High,0
+Work,Partner,Sunny,Evening,Restaurant(<20),50plus,Low,0
+Home,Kid,Rainy,Evening,Restaurant(<20),50plus,High,0
+No Urgent Place,Partner,Sunny,Afternoon,Carry out,Below21,Low,0
+Work,Partner,Snowy,Morning,Restaurant(20-50),50plus,High,0
+Work,Alone,Rainy,Morning,Restaurant(<20),Below21,Medium,1
+Work,Kid,Rainy,Morning,Carry out,31-50,Medium,1
+Home,Friend,Sunny,Morning,Restaurant(20-50),Below21,Low,1
+Work,Alone,Rainy,Evening,Restaurant(<20),50plus,High,0
+No Urgent Place,Friend,Rainy,Evening,Restaurant(<20),50plus,Medium,1
